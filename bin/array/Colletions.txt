@@ -1,0 +1,26 @@
+----------- COLLETIONS ---------------
+
+Set: 
+    -No es ordenado
+    -No es indexado
+    -No acepta repeticion
+    -Puede ser heterogeneo
+    -Puede ser homogeneo
+
+Lista:
+    -Indexada
+    -Acepta repeticion
+
+Map:
+    -Llave / Valor
+    -Llave no acepta repeticion
+    -Valor acepta repeticion]
+
+Queue:
+    -Implementa fila
+    -FIFO (First In First Out)
+
+Stack:
+    -Implementa pila
+    -LIFO (Last In First Out)
+
